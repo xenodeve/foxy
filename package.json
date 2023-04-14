@@ -1,0 +1,20 @@
+{
+  "name": "beta_xenobot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "start": "node .",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.8.0",
+    "erela.js": "^2.4.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.36.0"
+  },
+  "description": ""
+}
